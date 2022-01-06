@@ -1,0 +1,2 @@
+## Django Checbook
+  This is a full-stack site that was made in Django Framework with html and css. It is a site of a fake bank account where you can create a new account, withdraw or deposit funds and it will give you the amount that is in the account you selected and tell you when the transactions were made. You can also delete accounts if needed and everything is being backed up to sqlite3 for the database to hold and save the information put in.
